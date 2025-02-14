@@ -3,9 +3,9 @@
 ## **Project Overview**  
 This project focuses on enhancing the prediction of *Escherichia coli* promoters by utilizing transfer learning techniques with Nucleotide Transformer models.  
 
-I employed pre-trained Nucleotide Transformer models with different configurations and datasets, which were fine-tuned using specific datasets from the **Prokaryotic Promoter Database (PPD)**. Further experiments were conducted to improve model accuracy by adjusting training steps and the **Low-Rank Adaptation (LoRA)** dropout rate.  
+I employed pre-trained Nucleotide Transformer models with different configurations and datasets, which were fine-tuned using specific datasets from the Prokaryotic Promoter Database (PPD). Further experiments were conducted to improve model accuracy by adjusting training steps and the Low-Rank Adaptation (LoRA) dropout rate.  
 
-The models were evaluated against a dataset comprising **865 natural, experimentally validated *E. coli* K-12 promoter sequences** and **1,000 randomly generated negative sequences**.  
+The models were evaluated against a dataset comprising 865 natural, experimentally validated *E. coli* K-12 promoter sequences and 1,000 randomly generated negative sequences.  
 
 ---
 
